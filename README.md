@@ -20,7 +20,11 @@ I am a 17 year old student from Poland with a passion for cyber security and sof
 
 
 
+<!-- 
+
+Because most of my commits and pr's are in private repos, these stats are not very impressive. I will uncomment them, when I put all of the repos to public :)
+
 <div style="display: flex; flex-direction: column;">
  <img class="img" src="https://github-readme-stats.vercel.app/api?username=kisiekx&show_icons=true&theme=dark&locale=en" />
  <img class="img" src="https://github-readme-streak-stats.herokuapp.com/?user=kisiekx&theme=dark" />
-</div>
+</div> -->
