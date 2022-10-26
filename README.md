@@ -3,6 +3,7 @@
 
 I am a 17 year old student from Poland with a passion for cyber security and software development. I am currently working on a project called btone.tech Crew Portal, which is a system to manage employees  for a small organization. The project is still in early development, but I am very excited to work on it and see it grow. In my spare time, I like to tinker with light engineering projects in GrandMA2.
 
+I know that my code isn't the best, but I am more than eager to learn how to code at enterprise level.
 
 
 <h3 align="left">Languages and Tools:</h3>
