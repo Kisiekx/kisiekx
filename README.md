@@ -1,4 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kisiekx&label=Profile%20views&color=3eafe0&style=flat" alt="kisiekx" /> </p>
+
+[![My Holopin board](https://holopin.io/api/user/board?user=kisiekx)](https://holopin.io/@kisiekx)
+
 <h1 align="left">Hi, I'm Mateusz :)</h1>
 
 I am a 17 year old student from Poland with a passion for cyber security and software development. I am currently working on a project called btone.tech Crew Portal, which is a system to manage employees  for a small organization. The project is still in early development, but I am very excited to work on it and see it grow. In my spare time, I like to tinker with light engineering projects in GrandMA2.
